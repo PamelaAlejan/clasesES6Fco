@@ -1,0 +1,6 @@
+#ignorar la carpeta node_modules
+node_modules
+#ignorar el package-lock.json
+package-lock.json
+#Ignora archivos del sistema MAC
+.DS_store
