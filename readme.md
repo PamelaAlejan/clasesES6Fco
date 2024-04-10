@@ -16,6 +16,14 @@ y copias la informacion que esta en la documentacion dentro de este archivo.
 
 ahora crea un archivo .gitignore
 
+ahora en el menu el simbolito pisa el boton azul recuerda cambiar las menos a mas dile y luego commit dale el nombre y cierralo en la x arriba en la barra
+
+ahora para desarrollar tu proyecto se crean los archivos: , se crea la carpeta src adentro se crean los archivos:cliente, impuestos y el principal
+
+para traspilar se colocca esta ruta en el terminal:
+npx babel src/ -d dist/ --config-file ./babel.config.json
+
+
 
 
 
